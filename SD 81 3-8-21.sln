@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValueTypes", "ValueTypes\Va
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conditonals", "Conditonals\Conditonals.csproj", "{A0925127-23AA-4C3F-B4B5-15E87CAE2F08}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenges", "Challenges\Challenges.csproj", "{30BF437F-EC01-4E43-864F-2A40FB258015}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{A0925127-23AA-4C3F-B4B5-15E87CAE2F08}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A0925127-23AA-4C3F-B4B5-15E87CAE2F08}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A0925127-23AA-4C3F-B4B5-15E87CAE2F08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30BF437F-EC01-4E43-864F-2A40FB258015}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30BF437F-EC01-4E43-864F-2A40FB258015}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30BF437F-EC01-4E43-864F-2A40FB258015}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30BF437F-EC01-4E43-864F-2A40FB258015}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
